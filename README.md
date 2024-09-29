@@ -16,7 +16,7 @@
     <div class="container">
         <Center>
             <img src="Shopee.png" alt="Logo da Shopee - Achados da Shopee">
-            <img src="LogoRacingfireOfc.webp" alt="Logo RacingFire" class="Logo-RacingFire">
+            <img src="LogoRacingAchadosdaShopee.webp" alt="Logo RacingFire" class="Logo-RacingFire">
         </Center>
         <h1>Achados da Shopee... RacingFire</h1>
         <b><i><center>

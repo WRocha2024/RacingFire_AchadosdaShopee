@@ -7,25 +7,26 @@
     <meta name="description"
         content="Encontre os melhores produtos automotivos na Shopee. Confira nossa seleção e compre com facilidade!">
     <meta name="keywords" content="Shopee, produtos automotivos, compras online, promoções, achados Shopee">
-    <meta name="author" content="RacingFire">
-    <p></p><title>Lista de Achados da Shopee</title></head>p>
+    <meta name="author" content="RacingFireAchadosdaShopee">
+    <title>Lista de Achados da Shopee</title>
     <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
     <div class="container">
         <Center>
-            <img src="Shopee.png" alt="Logo da Shopee - Achados da Shopee">  <a href="https://www.instagram.com/seu_perfil/" target="_blank">
+            <img src="Shopee.png" alt="Logo da Shopee - Achados da Shopee">
+           <a href="https://www.instagram.com/racingfire_achados_shopee/" target="_blank">
     <img src="RacingfireAchadosdaShopee.webp" alt="Logo RacingFire" class="Logo-RacingfireAchadosdaShopee" style="width: 150px; height: auto;">
 </a>
-        </Center>
-        <h1>Achados da Shopee... RacingFire</h1>
+     </Center>
+        <h1>Racingfire Achados da Shopee</h1>
         <b><i><center>
-                <p class="informe"> Buscamos para vcs os melhores produtos, com as melhores avaliaçoes do mercado,
-                    sempre pensando na segurança de nossos clientes.</p>
-                <p>Ao cliclar no botão comprar vcs serão direcionados ao site da Shopee em outra aba, adicione o produto
-                    ao seu carrino e volte para ver outros pordutos </p>
-                <p>Vc pode Buscar o Produto desejado pelo nome ou Codigo no campo abaixo</p></center></b></i>
+                <p class="informe"> Buscamos para vocês os melhores produtos, com as melhores avaliações do mercado,
+                    sempre pensando na Felicidade e segurança de nossos clientes.</p>
+                <p>Ao Ao clicar no botão comprar vocês serão direcionados ao site da Shopee em outra aba ou Aplicativo, adicione o produto
+                    ao seu carrinho e volte para nossa Pagina para escolher outros produtos </p>
+                <p>Você pode Buscar o Produto desejado pelo Nome ou Código no campo abaixo</p></center></b></i>
 
         <div class="search-bar">
             <input type="text" id="searchInput" placeholder="Produto / Código">

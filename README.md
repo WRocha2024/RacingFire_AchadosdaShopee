@@ -24,7 +24,7 @@
         <b><i><center>
                 <p class="informe"> Buscamos para vocês os melhores produtos, com as melhores avaliações do mercado,
                     sempre pensando na Felicidade e segurança de nossos clientes.</p>
-                <p>Ao Ao clicar no botão comprar vocês serão direcionados ao site da Shopee em outra aba ou Aplicativo, adicione o produto
+                <p>Ao clicar no botão comprar vocês serão direcionados ao site da Shopee em outra aba ou Aplicativo, adicione o produto
                     ao seu carrinho e volte para nossa Pagina para escolher outros produtos </p>
                 <p>Você pode Buscar o Produto desejado pelo Nome ou Código no campo abaixo</p></center></b></i>
 

@@ -8,14 +8,16 @@
         content="Encontre os melhores produtos automotivos na Shopee. Confira nossa seleção e compre com facilidade!">
     <meta name="keywords" content="Shopee, produtos automotivos, compras online, promoções, achados Shopee">
     <meta name="author" content="RacingFire">
-    <title>Lista de Achados da Shopee</title>
+    <p></p><title>Lista de Achados da Shopee</title></head>p>
     <link rel="stylesheet" href="styles.css" />
 </head>
 
 <body>
     <div class="container">
         <Center>
-            <img src="Shopee.png" alt="Logo da Shopee - Achados da Shopee">  <img src="RacingfireAchadosdaShopee.webp" alt="Logo RacingFire" class="Logo-RacingFire">
+            <img src="Shopee.png" alt="Logo da Shopee - Achados da Shopee">  <a href="https://www.instagram.com/seu_perfil/" target="_blank">
+    <img src="RacingfireAchadosdaShopee.webp" alt="Logo RacingFire" class="Logo-RacingfireAchadosdaShopee" style="width: 150px; height: auto;">
+</a>
         </Center>
         <h1>Achados da Shopee... RacingFire</h1>
         <b><i><center>

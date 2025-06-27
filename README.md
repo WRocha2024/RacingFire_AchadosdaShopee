@@ -102,7 +102,7 @@
             </div>
 <!-- Produto 11 -->
 <div class="product-item" data-name="Carregador Celular AUTOMOTIVO TIPO C 60W C/VISOR Turbo ANATEL" data-code="011">
-    <img src="Carregador Celular AUTOMOTIVO TIPO C 60W C/VISOR Turbo ANATEL" alt="br-11134207-7r98o-m1en04d81zkw72">
+    <img src="Carregador Celular AUTOMOTIVO TIPO C 60W C/VISOR Turbo ANATEL.webp" alt="Carregador Celular AUTOMOTIVO TIPO C 60W CVISOR Turbo ANATEL">
     <h3>Carregador Celular AUTOMOTIVO TIPO C 60W C/VISOR Turbo ANATEL IPHONE 15 16 Motorola SAMSUNG Veicular (Código: 011)</h3>
     <a href="https://s.shopee.com.br/4AoVDfKts6?share_channel_code=1" class="buy-button" target="_blank">Comprar</a>
 </div>

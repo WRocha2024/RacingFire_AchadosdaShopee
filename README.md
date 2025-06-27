@@ -106,7 +106,7 @@
                     alt="Carregador Celular AUTOMOTIVO TIPO C 60W CVISOR Turbo ANATEL">
                 <h3>Carregador Celular AUTOMOTIVO TIPO C 60W C/VISOR Turbo ANATEL (Código: 011)</h3>
                 <a href="https://s.shopee.com.br/4AoVDfKts6" class="buy-button" target="_blank">Comprar</a>
-</div>
+            </div>
 <!-- Produto 12 -->
 <div class="product-item" data-name="Nome da Imagem" data-code="012">
     <img src="Busca Shoppe Logo.jpg" alt="Estamos Buscando +">

@@ -104,7 +104,7 @@
 <div class="product-item" data-name="Carregador Celular AUTOMOTIVO TIPO C 60W C/VISOR Turbo ANATEL" data-code="011">
     <img src="Carregador Celular AUTOMOTIVO TIPO C 60W CVISOR Turbo ANATEL.webp" alt="Carregador Celular AUTOMOTIVO TIPO C 60W CVISOR Turbo ANATEL">
     <h3>Carregador Celular AUTOMOTIVO TIPO C 60W C/VISOR Turbo ANATEL (Código: 011)</h3>
-    <a href="https://s.shopee.com.br/4AoVDfKts6?share_channel_code=1" class="buy-button" target="_blank">Comprar</a>
+    <a href="https://s.shopee.com.br/4AoVDfKts6" class="buy-button" target="_blank">Comprar</a>
 </div>
 <!-- Produto 12 -->
 <div class="product-item" data-name="Nome da Imagem" data-code="012">

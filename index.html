@@ -109,7 +109,7 @@
             </div>
           <!-- Produto 12 -->
            <div class="product-item" data-name="Cera Espelhamento Cerâmico Tira Riscos Repele Água" data-code="012">
-                <img src="Cera Espelhamento Cerâmico Tira Riscos Repele Água.webp" 
+                <img src="Cera Espelhamento Cerâmico Tira Riscos Repele Água.jpg" 
                     alt="Cera Espelhamento Cerâmico Tira Riscos Repele Água">
                     <h3Cera Espelhamento Cerâmico Tira Riscos Repele Água (Código: 012)</h3>
                 <a href="https://s.shopee.com.br/9KWxOdworH?share_channel_code=1" class="buy-button" target="_blank">Comprar</a>
